@@ -14,8 +14,9 @@ Site educativo sobre **ondas eletromagnéticas**, explicando o espectro (rádio,
 ## 📷 Prévia
 Aqui está uma prévia do site:  
 
-![Preview do site](./images/ondas.png)
+![Preview do site](./images/site.png)
 
+> 💡 Se quiser, substitua `./images/tabela.png` por outra imagem ou print atualizado do seu site.
 
 ---
 
@@ -23,4 +24,3 @@ Aqui está uma prévia do site:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
-
